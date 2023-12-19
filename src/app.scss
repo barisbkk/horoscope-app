@@ -1,0 +1,8 @@
+@import "./components/main/main.scss";
+@import "./components/navbar/navbar.scss";
+@import "./reset";
+
+body {
+  background-color: #fbab7e;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+}
